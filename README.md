@@ -4,4 +4,4 @@
 - 🌱 No momento estou estudando estruturação de páginas HTML
 
 
-<-- rwcla windows+ ponto - abre emojis -->
+<!-- tecla windows+ ponto - abre emojis --!>
