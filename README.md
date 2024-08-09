@@ -4,6 +4,9 @@ Atualmente estou trabalhando como professor do Ensino médio, nas disciplinas de
 
 Sou entusiasta da área da programação, estou estudando HTML, CSS e JavaScript no momento.
 
+
+![](https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif)
+
 ##
 
 
